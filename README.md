@@ -1,6 +1,6 @@
 # 3-axis Attitude Control Simulation for MATLAB
-簡易な剛体モデルを使った三軸姿勢制御，三軸姿勢推定シミュレータです． 
-真空中，無重力化を想定しており環境外乱は考慮していません． 
+簡易な剛体モデルを使った三軸姿勢制御，三軸姿勢推定シミュレータです．   
+動作環境は真空中，無重力化を想定しており環境外乱は考慮していません． 
 
 ## デモ
 https://user-images.githubusercontent.com/62766332/222377441-ffadc8ef-792d-435e-8d1b-cfe0a934deb4.mp4
